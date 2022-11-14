@@ -1,3 +1,11 @@
+// reload
+
+
+function refresh(){
+    window.location.reload();
+    }
+//sidebar
+
 
 
 function openSlideMenu(){
@@ -24,6 +32,3 @@ function goFB(){
 function openTWT(){
     window.location.href='https://twitter.com/Caramel_Wen';
 }
-
-
-
