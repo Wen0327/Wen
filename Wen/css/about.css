@@ -1,0 +1,31 @@
+body{
+    
+}
+
+.content_about{
+
+color: #000;;
+
+background: rgb(243, 230, 230);
+}
+
+.preview-img{
+    float:right;
+    width:300px;
+    margin:6px 0 20px 10px;
+    border-radius:5px;
+}
+
+article {
+    position: relative;
+    display: block;
+    box-sizing: border-box;
+    width: 100%;
+    max-width: 900px;
+    margin: 20px auto 20px;
+    padding: 20px 60px 50px;
+    border-radius: 15px;
+    background: rgb(243, 230, 230);
+    box-shadow: 0 2px 6px rgb(0 0 0 / 25%);
+}
+

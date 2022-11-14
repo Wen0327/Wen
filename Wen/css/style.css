@@ -78,8 +78,8 @@ body{
   .navbar-nav{display:none}
 }
 
-@media(min-width:568px){
-  /*.open-slide{display:none}*/
+@media(max-width:568px){
+  .banner{display:none}
 }
 
 #header{
